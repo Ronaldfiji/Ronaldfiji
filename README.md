@@ -1,5 +1,7 @@
-- 👋 Hi Friends, I am Ronald from Fiji Islands, a tiny island located in pacific ocean. 
-We provide water to thirsty world. Our Gold is used you make cutting edge mico chip for mobile phones. I am a passinate software developer.
+- 👋 Hi Friends, I am Ronald from Fiji Islands, a tiny Island located in pacific ocean. 
+We provide water to thirsty world and premimum gold for crafting micro-chip for mobile phones. 
+ ()=> I am a passinate software developer
+ 
 - 👀 I’m interested in coding backend application and having dinner under sky.
 - 🌱 I’m currently learning Xamarin forms development
 - 💞️ I’m looking to collaborate on health care application 
